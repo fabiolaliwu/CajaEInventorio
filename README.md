@@ -27,7 +27,6 @@
     </ul>
   </li>
   <li><a href="#demo">Demo</a></li>
-  <li><a href="#contributing">Contribuyendo</a></li>
   <li><a href="#license">Licencia</a></li>
 </ol>
 </details>
