@@ -31,7 +31,7 @@
 </ol>
 </details>
 
-## Introduction
+## Introduccion
 
 ### Model Workflow
 <div align="center">
@@ -39,9 +39,9 @@
 </div> <br>
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
-## Features
+## Caracteristicas
 
-### Built With
+### Hecho con
 [![HTML][HTML]][HTML-url]
 [![CSS][CSS]][CSS-url]
 [![Javascript][Javascript]][Javascript-url]
